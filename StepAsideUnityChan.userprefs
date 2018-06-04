@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Destroy.cs">
+    <Files>
+      <File FileName="Assets\UnityChanController.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyCameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\CoinController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ItemGenerator.cs" Line="41" Column="18" />
+      <File FileName="Assets\Destroy.cs" Line="16" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
